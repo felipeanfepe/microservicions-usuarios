@@ -3,6 +3,7 @@
   <component name="SonarLintProjectSettings">
     <option name="moduleMapping">
       <map>
+        <entry key="microservicios-gateway" value="microservicios-zuul" />
         <entry key="microservicios-usuarios" value="microservicions-usuarios" />
       </map>
     </option>
