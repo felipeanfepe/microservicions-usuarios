@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/../commons-microservicios" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../microservicios-cursos" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../microservicios-eureka" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../microservicios-gateway" vcs="Git" />
   </component>
