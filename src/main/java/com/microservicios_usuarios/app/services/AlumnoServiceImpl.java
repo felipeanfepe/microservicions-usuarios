@@ -1,7 +1,7 @@
 package com.microservicios_usuarios.app.services;
 import com.commons.services.CommonServiceImpl;
 
-import com.microservicios_usuarios.app.models.entity.Alumno;
+import com.commons.models.entity.Alumno;
 import com.microservicios_usuarios.app.models.repository.AlumnoRepository;
 import org.springframework.stereotype.Service;
 
